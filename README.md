@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FdezAriasSara
-- 🌱 I’m currently learning ...JAVA,JAVASCRIPT,HTML5,XML,CSS,C#,C++,C,PYTHON, SQL , PLSQL and JDBC as well as Design Patterns and Data Structures.
+- 🌱 I’m currently learning ...JAVA,JAVASCRIPT,JPA,HTML5,XML,CSS,C#,C++,C,PYTHON, SQL , PLSQL and JDBC as well as Design Patterns and Data Structures.
 (Most of my repositories are private since they contain university tasks)
 - 👋 LinkedIn:https://www.linkedin.com/in/sara-fernández-arias-787565211/
 <!---
