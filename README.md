@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hi!<br>I'm Sara , a senior Software Engineering student. <br>University of Oviedo ( EII faculty) <br>I'm currently doing an internship in Transparent Edge services.<br> [![TransparentEdge](https://img.shields.io/badge/TransparentEdge-TransparentEdge-blue)](https://www.transparentedge.eu/)
-
-
+Many of my repos are hidden due to subject's grading requirements.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sara Fernández Arias ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Sara Fernández Arias ) 
 
