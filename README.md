@@ -7,7 +7,7 @@ Hi!<br>I'm Sara , a senior Software Engineering student studying in University o
 (https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://my-vercel-api-per6.vercel.app/api?username=FdezAriasSara&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FdezAriasSara&theme=monokai&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FdezAriasSara&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
