@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi!<br>I'm Sara , a senior Software Engineering student studying in University of Oviedo ( EII faculty)  
-
+Hi!<br>I'm Sara, a software engineer based in Asturias, Spain.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-fernández-arias-787565211/)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14954461/sara-fern%c3%a1ndez-arias) 
 
